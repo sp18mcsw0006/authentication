@@ -5,13 +5,7 @@ import { View } from "react-native";
 import firebase from "firebase";
 
 // // import header & loginform
-// import {Header} from "./components/common";
-// import LoginForm from "./components//LoginForm";
-
 import { Header } from "./components/common";
-// Import our LoginForm component to be displayed on the screen
-//import LoginForm from "./components/LoginForm";
-
 import LoginForm from "./components/LoginForm";
 
 class App extends Component {

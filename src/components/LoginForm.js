@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import { TextInput } from "react-native";
 import { CustomButton, Card, CardSection, Input } from "./common";
 
 class LoginForm extends Component {
